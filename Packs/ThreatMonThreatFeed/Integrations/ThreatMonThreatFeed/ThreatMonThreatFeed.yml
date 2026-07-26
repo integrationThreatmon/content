@@ -5,7 +5,6 @@ commonfields:
 name: ThreatMon Threat Feed
 display: ThreatMon Threat Feed
 provider: ThreatMon
-supportlevelheader: community
 description: Fetches Indicators of Compromise (IOCs) from the ThreatMon IOC platform and ingests them into Cortex as indicators.
 sectionorder:
 - Connect
